@@ -14,7 +14,7 @@ A collection of question papers for all subjects for all available years.
     Y1_ENG shall go to for ex. year1/sem1. directory
  4. Branch specific subjects shall go into respective branch folders. If a subject is common for multiple branches, don't add    it in every folder. Add it in any one of the branches and use that link for all.
  5. Make changes in the HTML file for the subject(s) in correct semester and branch(s). 
- 6. Make a Pull Request!
+ 6. Make the Pull Request!
 
 
 
